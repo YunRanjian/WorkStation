@@ -1,0 +1,13 @@
+server:
+  port: 8082
+
+name: Randren
+owner:
+  name: ${name} #Randren
+  age: 27
+
+studyDate:
+  - 2024.04
+  - 2034.05
+
+word: 'Thank you so much!'
