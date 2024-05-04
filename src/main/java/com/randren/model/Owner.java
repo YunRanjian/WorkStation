@@ -1,4 +1,4 @@
-package com.randren.controller;
+package com.randren.model;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
